@@ -1,0 +1,17 @@
+﻿<Window x:Class="DPF_HW_1.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DPF_HW_1"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Border BorderBrush="Black" Background="CornflowerBlue" BorderThickness="1" HorizontalAlignment="Left" Height="79" Margin="0,-1,-2.4,0" VerticalAlignment="Top" Width="796"/>
+        <Border BorderBrush="Black" Background="Red" BorderThickness="1" HorizontalAlignment="Left" Height="105" Margin="4,315,0,0" VerticalAlignment="Top" Width="788"/>
+        <Border BorderBrush="Black" Background="Orange" BorderThickness="1" HorizontalAlignment="Left" Height="234" Margin="-1,85,0,0" VerticalAlignment="Top" Width="90"/>
+        <Border BorderBrush="Black" Background="Yellow" BorderThickness="1" HorizontalAlignment="Left" Height="234" Margin="703,82,0,0" VerticalAlignment="Top" Width="90"/>
+        <Border BorderBrush="Black" Background="Green" BorderThickness="1" HorizontalAlignment="Left" Height="235" Margin="92,79,0,0" VerticalAlignment="Top" Width="606"/>
+
+    </Grid>
+</Window>

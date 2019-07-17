@@ -1,0 +1,5 @@
+C:\Users\yulia\source\repos\DPF_HW-1\DPF_HW-1\obj\Debug\DPF_HW-1.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\DPF_HW-1\DPF_HW-1\obj\Debug\MainWindow.g.cs
+C:\Users\yulia\source\repos\DPF_HW-1\DPF_HW-1\obj\Debug\App.g.cs
+C:\Users\yulia\source\repos\DPF_HW-1\DPF_HW-1\obj\Debug\DPF_HW-1_MarkupCompile.cache
+C:\Users\yulia\source\repos\DPF_HW-1\DPF_HW-1\obj\Debug\DPF_HW-1_MarkupCompile.lref
